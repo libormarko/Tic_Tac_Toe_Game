@@ -8,11 +8,5 @@ A front-end web development project in ReactJS. I wrote a blog post about the pr
 * CSS3
 
 ## Setup and Run
-1. Download the project files
-2. Extract all files from the zipped folder
-3. Open the folder
-4. Open the folder src and the file called "index.js"
-
-Alternatively:
 
 See the code and play the game [here](https://codesandbox.io/s/tic-tac-toe-game-mnx4x).
