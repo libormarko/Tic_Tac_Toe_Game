@@ -9,4 +9,4 @@ A front-end web development project in ReactJS. I wrote a blog post about the pr
 
 ## Setup and Run
 
-See the code and play the game [here](https://codesandbox.io/s/tic-tac-toe-game-mnx4x).
+Try the app [here](https://mnx4x.codesandbox.io/).
